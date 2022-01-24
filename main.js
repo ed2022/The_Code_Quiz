@@ -116,7 +116,7 @@ function final(){
             var newScore = JSON.stringify(allScores);
             localStorage.setItem("allScores", newScore);//setting items for local storage 
             // Travels to final page
-            window.location.replace("highscores.html"); //calling on seperate location to call highscore 
+            window.location.replace("HighScores/highscores.html"); //calling on seperate location to call highscore 
         }
     });
 }

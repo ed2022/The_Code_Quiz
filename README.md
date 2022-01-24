@@ -18,8 +18,8 @@ The webpage is used in your browser. By clicking the start Button, you are then 
 Please view attachment video in the Assets Folder to see a walk through of how the application should run. 
 
 ## Links
-GitHub: https://github.com/ed2022/Code_Quiz.git
-Webpage: https://ed2022.github.io/Code_Quiz/
+GitHub: https://github.com/ed2022/The_Code_Quiz.git
+Webpage: https://ed2022.github.io/The_Code_Quiz/
 
 ## "User Story"
 
