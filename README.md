@@ -15,8 +15,8 @@ The webpage is used in your browser. By clicking the start Button, you are then 
 ![How the app works.](Code-Quiz.gif) 
 
 ## Links
-GitHub: https://github.com/ed2022/Code_Quiz.git
-Webpage: https://ed2022.github.io/Code_Quiz/
+GitHub: https://github.com/ed2022/The_Code_Quiz.git
+Webpage: https://ed2022.github.io/The_Code_Quiz/
 
 Note that the HTML and CSS where already given. 
 
